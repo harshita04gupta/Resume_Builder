@@ -1,4 +1,4 @@
-import { Box, chakra, Container, Stack, Text, Image, useColorModeValue, VisuallyHidden, } from '@chakra-ui/react';
+import { Box, Container, Stack, Text, Image, useColorModeValue, } from '@chakra-ui/react';
 
 import logo from './../../Assets/logo.png';
 

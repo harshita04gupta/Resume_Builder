@@ -26,7 +26,7 @@ Here are some screenshots of the project to give you an idea of its features and
 ### Built With
 - [React](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Chakra UI](https://chakra-ui.com/)
+  
 - [React Router](https://reactrouter.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [React HTML to PDF](https://www.npmjs.com/package/react-html-to-pdf)
